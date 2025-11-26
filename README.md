@@ -92,3 +92,9 @@ This project demonstrates how machine learning models trained on biased data can
 - seaborn 
 
 ---
+
+## Note for Users
+
+First run the scripts: "InitialModelTraining.py" and "fairnessModelTraining.py".
+This might take some time as it would create our model.
+The rest of the scripts are to test the models' fairness and produce counterfactuals.
